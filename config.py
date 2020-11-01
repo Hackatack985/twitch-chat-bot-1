@@ -2,8 +2,8 @@ SETTINGS = {
 	'bot_name': 'ZCKBot',
 	'client_id': '7ot38wzkx305ps43qminm5z1ofjchs',
         'oauth': 'n8gh3e36c15n9a862dfaqpn42c5g8s',
-	'channel_oauth': '',
-	'channel_name': '',
+	'channel_oauth': '7qcrzq5dxbpcg76zui6hojyjunpwg9',
+	'channel_name': 'ZCKTheBOSS',
 	'timezone': 'EST',
 
 	'enable_media_requests': True,
