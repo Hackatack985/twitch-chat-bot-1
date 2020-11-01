@@ -1,7 +1,7 @@
 SETTINGS = {
-	'bot_name': '',
-	'client_id': '',
-	'oauth': '',
+	'bot_name': 'ZCKBot',
+	'client_id': '7ot38wzkx305ps43qminm5z1ofjchs',
+        'oauth': 'n8gh3e36c15n9a862dfaqpn42c5g8s',
 	'channel_oauth': '',
 	'channel_name': '',
 	'timezone': 'EST',
